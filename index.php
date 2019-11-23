@@ -58,7 +58,6 @@ switch ($view) {
 		      }
 		    } 	
 		break;
-
 	case 'contact' :
         $title="Contact Us";	
 		$content='contact.php';		
