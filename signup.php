@@ -96,14 +96,10 @@
           </div>
       
           </div>
-          
-           
-
           <div class="col-lg-6"> 
               <div class="form-group">
                 <div class="col-md-12">
-                   <label class="col-md-4" align = "right"for=
-                  "btn"></label>
+                   <label class="col-md-4" align="right"for="btn"></label>
                   <div class="col-md-8">
                     <input type="submit"  name="save"  value="Save"  class="submit btn btn-primary btn-lg"  />
                       
@@ -111,30 +107,6 @@
               </div>
             </div>
          </div>     
-  </form>   
-  
-   
-                
- 
-                  
-
-                               
-                
-
-
-
-
-
- 
-              
-
-
-
-
-
-
-
-
-                   
+  </form>        
         
-        </form>
+</form>
